@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Neha Arora
-description: "Hi I'm Neha Arora, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi, I’m Neha Arora, a Data Scientist with a passion for building impactful, real-world solutions. This portfolio showcases some of my recent projects focused on driving business value. You can explore my GitHub, LinkedIn, or download my resume using the links below."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
